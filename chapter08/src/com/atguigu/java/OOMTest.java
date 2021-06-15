@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * -Xms600m -Xmx600m
+ * -Xms300m -Xmx300m
  * @author shkstart  shkstart@126.com
  * @create 2020  21:12
  */
